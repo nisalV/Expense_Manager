@@ -1,0 +1,4 @@
+Import - Expense/
+Export - Income/
+Shop sales - Income/
+phone - Income/
